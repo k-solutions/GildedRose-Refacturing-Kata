@@ -1,0 +1,4 @@
+dist-newstyle/**
+*.swp
+dist-newstyle/*
+state/
